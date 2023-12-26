@@ -1,0 +1,1161 @@
+
+/* STYLE HEADER */
+header{
+    font-size: 15px;
+
+}
+body{
+    font-family: 'Poppins',sans-serif;
+}
+
+.informationBlok{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.information{
+
+    width: 80%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.minNav{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+    
+}
+
+
+
+.deliveryInfo{
+    margin-left: 10%;
+}
+
+
+
+
+.minNavi{
+    padding-top: 15px;
+    padding-bottom: 15px;
+   
+
+}
+
+
+
+.headerNav{
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+}
+
+
+.logo{
+    margin: auto;
+}
+
+
+.headerknopki{
+    background-color:#F9F9F9;
+    padding: 10px;
+    height: 50px;
+    display: flex;
+   
+    
+}
+
+
+.headerknopki a{
+    margin: auto;
+}
+
+/* STYLE HEADER */
+
+
+
+
+
+
+.maintable div{
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+/* STYLE MAIN */
+
+
+main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.imageMain{
+    margin-top: 10px;
+}
+
+
+
+.fotomaina{
+    margin-right: auto;
+    margin-left: auto; 
+    width: 100%;
+}
+
+.fatherportbloks{
+    display: flex;
+    margin-top: 50px;
+}
+
+ 
+.fatherportbloks div{
+    margin: auto;
+    margin-top: 0px;
+}
+
+
+
+
+.zagalovokmain{
+    text-align: center;
+   margin-top: 100px;
+}
+
+
+
+
+.portblok{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 50px;
+    float: left;
+    width: 650px;
+    background: #000000;
+    color: white;
+    height: 400px;
+    
+}
+.port1{
+height: 400px;
+width:1000px;
+margin-left: 250px;
+background-color: black;
+margin-top: 50px;
+}
+
+.port1son{
+font-size: 50px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+.portblok2{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 50px;
+    float: left;
+    width: 650px;
+    background: #000000;
+    color: white;
+    height: 400px;
+}
+
+.port2{
+    height: 400px;
+    width:700px;
+    margin-left: 1ch;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.port2son{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+.foto19{
+    margin-left: 260px;
+    margin-top: 100px;
+}
+
+.kedatext{
+    text-align: center;
+}
+
+
+.action{
+    width: 500px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: 700px;
+}
+
+
+
+
+
+
+.osnovatable{
+    display: flex;
+}
+
+
+
+.shoptable{
+    margin-left: 250px;
+    padding: 10px;
+    margin-top: 50px;
+    float: left;
+    width: 300px;
+    background: #e6e6e6;
+    color: rgb(0, 0, 0);
+    height: 300px;
+}
+
+
+.shoptable:hover{
+    background-color: rgb(70, 70, 70);
+    color: white;
+   }
+
+
+
+
+
+
+
+
+
+
+
+.shoptable2{
+    margin-left: 28px;
+    padding: 10px;
+    margin-top: 50px;
+    float: left;
+    width: 300px;
+    background: #e6e6e6;
+    color: rgb(0, 0, 0);
+    height: 300px;
+}
+
+.shoptable2:hover{
+    background-color: rgb(70, 70, 70);
+    color: white;
+   }
+
+
+
+
+.osnovatable div{
+    margin: auto;
+    margin-top: 0px;
+}
+
+.foto19{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+
+
+.shoptable3{
+    margin-left: 28px;
+    padding: 10px;
+    margin-top: 50px;
+    float: left;
+    width: 300px;
+    background: #e6e6e6;
+    color: rgb(0, 0, 0);
+    height: 300px;
+}
+.shoptable3:hover{
+    background-color: rgb(70, 70, 70);
+    color: white;
+   }
+
+
+
+
+
+
+
+
+
+
+.shoptable4{
+    margin-left: 29px;
+    padding: 10px;
+    margin-top: 50px;
+    float: left;
+    width: 300px;
+    background: #e6e6e6;
+    color: rgb(0, 0, 0);
+    height: 300px;
+}
+.shoptable4:hover{
+    background-color: rgb(70, 70, 70);
+    color: white;
+   }
+
+
+
+   
+
+
+
+.fathertext div{
+    margin: auto;
+    margin-top: 100px;
+}
+
+.fathertext2 div{
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+.podrobnee{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-left: 810px;
+    text-align: center;
+    
+    
+}
+.podrobneetext{
+    transform: translate(0, 80%);
+   
+  
+   
+}
+
+.podrobnee:hover{
+    background-color: rgb(80, 78, 78);
+    color: black;
+}
+
+.podrobneetextsilka{
+    text-decoration: none;
+    color: white;
+}
+
+.podrobneetextsilka:hover{
+
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+.blockfather div{
+    width: 1000px;
+    
+
+}
+
+
+
+
+.blockfather{
+    display: flex;
+    margin-right: 1257px;
+
+}
+
+
+.topvideo{
+    margin-left: 265px;
+    margin-top: 100px;
+    width: 700px;
+
+}
+
+
+.textvideo{
+    width: auto;
+    height: 396px;
+    margin-top: 100px;
+    background-color: black;
+    margin-left: auto;
+}
+
+
+
+
+
+
+.osnovatext{
+    color: white;
+    font-size: 30px;
+    margin-top: 70px;
+}
+.osnovatext2{
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 190px;
+}
+.osnovatext3{
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
+
+
+
+
+.bloktext{
+    font-size: 15px;
+    color: rgb(75, 74, 74);}
+    
+    
+    .contine{
+        color: white;
+        text-decoration: none;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+.information div {
+    display: flex;
+}
+
+.information{
+
+    width: 80%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+.minNavi a {
+    text-decoration: none;
+    color: black;
+}
+
+.minNav a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.information p {
+    color: white;
+  
+}
+
+
+.deliveryInfo p{
+    margin-left: 10px;
+}
+
+nav{
+    background-color: #F9F9F9;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+    padding-right: 20px;
+}
+
+nav a:hover{
+    color: #EB5757;
+    
+}
+
+.imageMain{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.maintable{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+}
+
+
+
+
+    .logomain2{
+        width: 100px;
+        height: 100px;
+        
+        margin-left: 50px;
+       
+     }
+     
+
+
+
+
+
+    
+    .logomain3{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+ 
+    }
+
+
+
+
+
+
+
+    
+    .logomain4{
+        width: 100px;
+        height: 100px;
+        margin-left: 50px;
+        
+    }
+
+    
+    
+    
+    
+    .logomain5{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    
+    }
+
+    
+
+
+    
+    .logomain6{
+        width: 100px;
+        height: 100px;
+        margin-left: 50px;
+       
+    }
+
+    
+    
+    
+    .logomain7{
+        width: 100px;
+        height: 100px;
+        margin-left: 50px;
+        
+    }
+
+    
+    
+    
+    
+    .logomain8{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+  
+    }
+    
+    
+    .logomain9{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+   
+    }
+
+    
+    
+    
+    
+    
+    .logomain10{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+   
+    }
+
+
+
+
+
+
+
+
+    .imgblok2{
+    margin-top: 15px;
+    }
+
+
+
+    .imgblok4{
+        margin-top: 15px;
+     }
+
+
+    .imgblok9{
+     margin-top: 30px;
+    }
+
+
+    
+
+.fatherend{
+    display: flex;
+}
+
+
+
+ .endblok{
+    margin-left: 420px;
+    margin-top: 50px;
+    background-image: url(img/endfoto.png);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 590px;
+
+ }
+.endlogo{
+    margin-left: 180px;
+    margin-top: 190px;
+}
+
+.endtext{
+    font-size: 30px;
+    margin-left: 90px;
+    color: white;
+}
+
+.endtextoo{
+    font-size: 15px;
+    margin-left: 90px;
+    color: white;
+}
+
+.endkid{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    margin-left: 155px;
+    text-align: center;
+    
+}
+
+ .endbloktext{
+    transform: translate(0, 80%);
+    
+
+}
+
+.endbloktext a{
+    transform: translate(0, 80%);
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+
+}
+
+
+.endkid:hover{
+    background-color: gray;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .endblok2{
+    margin-left: 50px;
+    margin-top: 50px;
+    background-image: url(img/endfoto2.png);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 590px;
+
+ }
+
+.endbloktext2{
+    transform: translate(0, 80%);
+}
+
+.endkid2{
+    width: 310px;
+    height: 50px;
+    background-color: white;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.endlogo2{
+    margin-left: 215px;
+    margin-top: 190px;
+}
+
+.endtext2{
+    font-size: 30px;
+    margin-left: 170px;
+    color: white;
+}
+
+.endtexthre{
+    font-size: 15px;
+    margin-left: 160px;
+    color: white;
+}
+
+
+.emailend{
+    margin-top: 15px;
+}
+
+.blokimage{
+    background-image: url(img/logoend2.png);
+    background-size: cover;
+    background-position: center;
+    width: 20px;
+    height: 15px;
+    margin-left: 15px;
+    transform: translate(0, 100%);
+}
+.textimage{
+   margin-bottom: 10px;
+   margin-left: -180px;
+}
+
+.typeemail{
+    margin-left: 50px;
+    margin-bottom: 100px;
+    transform: translate(0, -90%);
+}
+
+
+
+
+
+
+.endblok{
+    margin: auto;
+    margin-top: 50px;
+}
+
+.endblok2{
+    margin: auto;
+    margin-left: -230px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navtext a{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+.navtext{
+   margin-left: 253px;
+   margin-top: 15px;
+}
+
+.minNavi a{
+    margin-left: 10px;
+}
+
+
+footer{
+    margin-top: 100px;
+    width: 100%;
+    height: 1000px;
+    background-image: url(img/footer.png);
+    background-size: cover;
+    
+    
+}
+
+
+
+
+
+
+.footerblok{
+   
+    background-color: rgba(255, 0, 0, 0);
+
+}
+
+
+
+
+
+.logofooter{
+   
+    width: 55px;
+    height: 110px;
+    padding-top: 200px;
+    margin-left: 230px;
+}
+
+.logofooter2{
+ 
+    width: 240px;
+    height: 55Px;
+    margin-left: 300px;
+    margin-top: -115px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.emailfooter{
+   
+    margin-left: 1200px;
+    margin-top: -60px;
+    width: 500px;
+    height: 50px;
+    color: white;
+}
+
+
+
+
+.emailfooterfoto{
+    margin-top: 13px;
+    margin-left: 20px;
+}
+
+
+
+.footlogotext{
+    margin-top: -22px;
+    margin-left: 60px;
+}
+
+
+
+
+
+
+
+
+.footerblok2{
+    width: 4200px;
+    height: 550px;
+    background-color: rgba(75, 24, 24, 0);
+    margin-top: 80px;
+    margin-left: auto;
+    color: white;
+    padding-left: 225px;
+
+   
+   
+}
+.textfooter{
+   padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.blok2son{
+    margin-top: 40px;
+    margin-left: 200px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.blok3son{
+    width: 180px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: rgb(56, 55, 55);
+    margin-top: -105px;
+    
+}
+
+.blok3logo{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.blok3text{
+    margin-top: -30px;
+    margin-left: 50px;
+    font-size: 12px;
+}
+.blok3text2{
+    margin-top: -15px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blok4son{
+    width: 180px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: rgb(56, 55, 55);
+    margin-top: 5px;
+    
+}
+
+.blok4logo{
+    margin-top: 5px;
+   margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.blokfather{
+    margin-left: -200px;
+}
+
+
+
+
+
+.footerblok3{
+    width: 750px;
+    height: 550px;
+    background-color: rgba(75, 24, 24, 0);
+    margin-top: -192px;
+    margin-left: 750px;
+   color: white;
+  
+
+   
+}
+.textfooter2{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+.contactsblok1{
+    margin-top: 30px;
+}
+
+.numberfooter{
+    width: 300px;
+    height: 100px;
+    background-color: rgba(255, 0, 0, 0);
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.number1{
+    font-size: 25px;
+}
+
+.number2{
+    font-size: 10px;
+}
+
+.number3{
+    font-size: 10px;
+}
+.number4{
+    font-size: 10px;
+}
+
+
+
+
+.nexthtml{
+    height: 100px;
+    width: 200px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 1000px;
+
+}
+
+
+
+footer div{
+    
+    
+    width: 100%;
+}
+
+
+
+
+.videoblok{
+    display: flex;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
